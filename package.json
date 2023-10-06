@@ -22,7 +22,7 @@
     "ts-pattern": "^5.0.5"
   },
   "devDependencies": {
-    "@antfu/eslint-config": "1.0.0-beta.17",
+    "@antfu/eslint-config": "1.0.0-beta.21",
     "@total-typescript/ts-reset": "^0.5.1",
     "@typescript-eslint/eslint-plugin": "^6.7.3",
     "bun-types": "^1.0.3",

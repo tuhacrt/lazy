@@ -1,5 +1,4 @@
 import antfu from '@antfu/eslint-config';
-import ts from '@typescript-eslint/eslint-plugin';
 
 export default antfu(
   {
@@ -7,7 +6,6 @@ export default antfu(
     ignores: ['node_modules', 'dist'],
   },
   {
-    plugins: { ts },
     rules: {
       'antfu/if-newline': 'off',
       'style/brace-style': ['error', '1tbs', { allowSingleLine: true }],
