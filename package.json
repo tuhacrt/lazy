@@ -22,12 +22,12 @@
     "ts-pattern": "^5.0.5"
   },
   "devDependencies": {
-    "@antfu/eslint-config": "1.0.0-beta.21",
+    "@antfu/eslint-config": "^1.0.0-beta.24",
     "@total-typescript/ts-reset": "^0.5.1",
-    "@typescript-eslint/eslint-plugin": "^6.7.3",
-    "bun-types": "^1.0.3",
-    "eslint": "8.51.0",
-    "eslint-define-config": "1.24.1",
+    "@typescript-eslint/eslint-plugin": "6.7.5",
+    "bun-types": "^1.0.5-canary.20231009T140142",
+    "eslint": "^8.51.0",
+    "eslint-define-config": "^1.24.1",
     "lint-staged": "^14.0.1",
     "simple-git-hooks": "^2.9.0",
     "typescript": "^5.2.2"
