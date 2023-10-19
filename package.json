@@ -8,7 +8,9 @@
   "keywords": [],
   "sideEffects": false,
   "module": "./index.ts",
-  "files": ["dist"],
+  "files": [
+    "dist"
+  ],
   "scripts": {
     "build:dev": "bun build --target=bun ./src/index.ts --outdir=dist --outfile=index.js",
     "dev": "bun run --hot ./src/index.ts",
@@ -18,9 +20,9 @@
     "typecheck": "tsc --noEmit"
   },
   "devDependencies": {
-    "@antfu/eslint-config": "^1.0.0-beta.26",
+    "@antfu/eslint-config": "^1.0.0-beta.27",
     "@total-typescript/ts-reset": "^0.5.1",
-    "@typescript-eslint/eslint-plugin": "^6.7.5",
+    "@typescript-eslint/eslint-plugin": "^6.8.0",
     "bun-types": "^1.0.6",
     "eslint": "^8.51.0",
     "eslint-define-config": "^1.24.1",
