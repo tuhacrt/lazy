@@ -1,6 +1,6 @@
-# TypeScript-Starter
+# Lazy
 
-A general TypeScript-Starter using : "bun"
+This repo is testing lazy evaluation in TypeScript.
 
 ## License
 
